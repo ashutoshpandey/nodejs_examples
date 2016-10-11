@@ -1,0 +1,17 @@
+{
+  "name": "Learning",
+  "version": "0.0.1",
+  "description": "Learning Node",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "Ashutosh Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jasmine-node": "^1.14.5",
+    "mongodb": "^2.2.10",
+    "node-mysql": "^0.4.2",
+    "request": "^2.75.0"
+  }
+}
