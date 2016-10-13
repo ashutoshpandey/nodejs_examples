@@ -101,8 +101,6 @@ else{
 */
     });
 
-    return;
-
     console.log("Running query");
 
     // get the date 1 month ago
