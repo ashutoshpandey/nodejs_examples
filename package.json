@@ -2,18 +2,19 @@
   "name": "Learning",
   "version": "0.0.1",
   "description": "Learning Node",
-  "scripts": {
-    "test": "jasmine-node spec"
-  },
+  "scripts": {},
   "author": "Ashutosh Pandey",
   "license": "ISC",
   "dependencies": {
+    "chai-http": "^3.0.0",
     "express": "^4.14.0",
+    "mocha": "^3.1.2",
     "mongodb": "^2.2.10",
+    "mongoose": "^4.6.3",
     "node-mysql": "^0.4.2",
     "request": "^2.75.0"
   },
   "devDependencies": {
-    "jasmine-node": "^1.14.5"
+    "chai": "^3.5.0"
   }
 }
